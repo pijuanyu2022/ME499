@@ -1,1 +1,1 @@
-# ME499
+# Demo of coppeliasim and docker approach
