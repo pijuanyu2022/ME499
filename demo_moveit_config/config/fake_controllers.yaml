@@ -1,0 +1,12 @@
+controller_list:
+  - name: fake_manipulator2_controller
+    joints:
+      - shoulder_pan_joint1
+      - shoulder_lift_joint1
+      - elbow_joint1
+      - wrist_1_joint1
+      - wrist_2_joint1
+      - wrist_3_joint1
+initial:  # Define initial robot poses.
+  - group: manipulator2
+    pose: pose1
